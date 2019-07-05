@@ -1,0 +1,14 @@
+{
+  "name": "programacion-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prueba-express.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Pablo Iglesias",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
